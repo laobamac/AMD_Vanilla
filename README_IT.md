@@ -12,6 +12,9 @@
 Patches per il Kernel che abilitano il supporto nativo di CPU AMD su macOS.
 
 # Leggere con attenzione!
+
+### Aggiunto il supporto fino a macOS Tahoe 26.2 beta
+### Utilizzare gli ultimi clover per il supporto alle nuove cpu Ryzen 9xxx
 # Risolto il problema audio per le piattaforme AMD AM5
 ### Aggiunto il supporto per macOS Sonoma beta 1 (consigliato l'utilizzo delle ultime versioni di clover
 ### Aggiunto il supporto per gli ultimi OS /macOS Ventura 13.5 beta 1 e 2
